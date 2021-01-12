@@ -1,0 +1,6 @@
+/Users/adam/Desktop/NoughtsAndCrosses/NoughtsAndCrosses/bin/Debug/NoughtsAndCrosses.exe
+/Users/adam/Desktop/NoughtsAndCrosses/NoughtsAndCrosses/bin/Debug/NoughtsAndCrosses.pdb
+/Users/adam/Desktop/NoughtsAndCrosses/NoughtsAndCrosses/obj/Debug/NoughtsAndCrosses.csprojAssemblyReference.cache
+/Users/adam/Desktop/NoughtsAndCrosses/NoughtsAndCrosses/obj/Debug/NoughtsAndCrosses.csproj.CoreCompileInputs.cache
+/Users/adam/Desktop/NoughtsAndCrosses/NoughtsAndCrosses/obj/Debug/NoughtsAndCrosses.exe
+/Users/adam/Desktop/NoughtsAndCrosses/NoughtsAndCrosses/obj/Debug/NoughtsAndCrosses.pdb
